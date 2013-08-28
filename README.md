@@ -1,8 +1,8 @@
-Noon protocol documentation
+Nova protocol documentation
 =============
 
 Coming soon. Watch this repository for updates.
 
-https://getnoon.com/
+https://wantnova.com/
 
-https://getnoon.com/sdk/
+https://wantnova.com/sdk/

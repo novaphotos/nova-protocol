@@ -31,7 +31,7 @@ Takes 3 parameters:
 
 Ideal values explained in next section.
 
-Example request: `(06:F,00,FF,01F4)` -> means command ID 6, Flash, warm=0, cool=255, timeout=1000ms)
+Example request: `(06:L,00,FF,01F4)` -> means command ID 6, Light up, warm=0, cool=255, timeout=1000ms
 
 Response: `(06:A)` -> command ID 6 acked
 
